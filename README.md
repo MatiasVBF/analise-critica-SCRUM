@@ -1,3 +1,3 @@
-# analise-critica-SCRUM 
+# Análise-Critica-SCRUM 
 
 (Case Sony)
